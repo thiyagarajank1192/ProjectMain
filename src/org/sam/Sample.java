@@ -6,6 +6,8 @@ public class Sample {
 		System.out.println("welcome......");
 		System.out.println("Varisu vs Thunivu");
 		System.out.println("changes");
+		System.out.println("java");
 		System.out.println("hadoop");
+
 	}
 }
